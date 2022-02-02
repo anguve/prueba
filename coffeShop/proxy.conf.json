@@ -1,7 +1,0 @@
-{
-  "/PHP/*": {
-    "target": "http://localhost:3308",
-    "secure": false,
-    "logLevel": "debug"
-  }
-}
